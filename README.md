@@ -2,7 +2,7 @@
 Virtual Internship - Android Application Development Using Kotlin
 google developer profile : https://developers.google.com/profile/u/116647144628357290365
 
-#Grocery Application
+# Grocery Application
 <br/>
 
 A grocery shopping is an android application where users can purchase and order groceries online. The system is developed with a user-friendly and attractive GUI. It delivers a wide range of groceries available online.
